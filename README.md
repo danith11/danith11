@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+`Developer` `Designer`
+
+<ul>
+  <li>👦I am Yethum Danith. I like to code and learn new technologies</li>
+  <li>👨‍🎓I am an undergraduate student at Open University of Sri Lanka Faculty of Engineering Technology</li>
+  <li>📑My favorite frameworks are <b>Next.js</b> <img width="15px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/> and <b>Express.js</b>
+    <img width="15px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/></li>
+</ul>
+
 <!--
 **danith11/danith11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
